@@ -8,8 +8,8 @@ He is currently pursuing a Master's degree in Computer Science at the School of 
 c1299877959[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, Shanghai Institute of Technology (SIT), China, 2023—2026 (expected).\
-B.E., Data Science and Big Data Technology, Shanghai Institute of Technology (SIT), China, 2019—2023.
+M.E., Computer Science and Technology, Shanghai Institute of Technology (SIT), China, 2023—2026.\
+B.E., Computer Science and Technology, Shanghai Institute of Technology (SIT), China, 2019—2023.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence.
