@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- 2019.12       优秀综合三等奖学金.
 
-- First-prize Scholarship of CUMT, 2024.
+- 2020.06       优秀综合三等奖学金.
 
-- First-prize Scholarship of CUMT, 2023.
+- 2020.12	      优秀综合二等奖学金.
 
-- Freshman Scholarship of CUMT, 2022.
+- 2021.6        优秀综合二等奖学金,国家励志奖学金.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 2022.12       优秀综合三等奖学金,国家励志奖学金.
